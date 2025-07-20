@@ -1,9 +1,9 @@
+student_count = 1000
 rating = 4.99
-isSubmitted = True
-name = "Aman Sultan"
-age = 25
+is_published = True
+course_name = "Python Programming"
 
+print(student_count)
 print(rating)
-print(isSubmitted)
-print(name)
-print(age)
+print(is_published)
+print(course_name)
